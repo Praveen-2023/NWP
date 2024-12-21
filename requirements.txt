@@ -1,0 +1,7 @@
+numpy
+tensorflow
+scikit-learn
+matplotlib
+streamlit
+pyngrok
+pickle-mixin
